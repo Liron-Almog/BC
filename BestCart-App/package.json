@@ -1,0 +1,40 @@
+{
+  "name": "cheaper",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo-google-fonts/inter": "^0.2.2",
+    "@expo/vector-icons": "^13.0.0",
+    "@react-native-community/datetimepicker": "6.5.2",
+    "@react-native-community/slider": "4.2.4",
+    "@react-navigation/bottom-tabs": "^6.5.7",
+    "@react-navigation/native": "^6.1.6",
+    "@react-navigation/stack": "^6.3.16",
+    "@rneui/themed": "^4.0.0-rc.7",
+    "axios": "^1.4.0",
+    "expo": "~47.0.8",
+    "expo-checkbox": "~2.2.2",
+    "expo-constants": "~14.0.2",
+    "expo-font": "~11.0.1",
+    "expo-location": "~15.0.1",
+    "expo-status-bar": "~1.4.2",
+    "express": "^4.18.2",
+    "formik": "^2.1.4",
+    "mysql": "^2.18.1",
+    "react": "18.1.0",
+    "react-native": "0.70.8",
+    "react-native-dropdown-picker": "^5.4.6",
+    "react-native-gesture-handler": "~2.8.0",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
